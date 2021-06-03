@@ -4,7 +4,7 @@
 
 New pieces will be posted every two weeks on twitter under the [#RecreationThursday](https://twitter.com/hashtag/RecreationThursday) hashtag, with a different curator each time! We encourage you to share your recreations over the following two weeks using the same hash tag.
 
-Each art piece will be accompanied with [alt-text]() to make this project as accessible as possible. We ask you to please include alt text with your recreations - feel free to use the alt-text we have provided as a starting point and update to capture your recreation as you see fit!
+Each art piece will be accompanied with [alt-text](https://help.twitter.com/en/using-twitter/picture-descriptions) to make this project as accessible as possible. We ask you to please include alt text with your recreations - feel free to use the alt-text we have provided as a starting point and update to capture your recreation as you see fit!
 
 ## June 2, 2021
 
