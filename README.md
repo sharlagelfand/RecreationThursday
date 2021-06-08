@@ -11,3 +11,19 @@ Each art piece will be accompanied with [alt-text](https://help.twitter.com/en/u
 * [Alfredo Hlito's Curves and Straight Series (1948)](https://www.moma.org/collection/works/205953)
 * Curated by [Natalie O'Shea](https://twitter.com/_natalie_oshea)
 * [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-06-03/alt_text.md) for the piece
+
+## June 17, 2021
+
+* Curated by [Maya Gans](https://twitter.com/Mayacelium)
+
+## July 1, 2021
+
+* Curated by [Sharla Gelfand](https://twitter.com/sharlagelfand)
+
+## July 15th, 2021
+
+* Curated by [Maia Pelletier](https://twitter.com/MaiaPelletier)
+
+## August 5th, 2021
+
+* Curated by [Ijeamaka Anyene](https://twitter.com/ijeamaka_a)
