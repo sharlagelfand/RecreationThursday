@@ -14,7 +14,9 @@ Each art piece will be accompanied with [alt-text](https://help.twitter.com/en/u
 
 ## June 17, 2021
 
+* [Edna Andrade's Twilight Wave (1973)](https://www.locksgallery.com/exhibitions/edna-andrade-symmetries)
 * Curated by [Maya Gans](https://twitter.com/Mayacelium)
+* [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-06-17/alt_text.md) for the piece
 
 ## July 1, 2021
 
