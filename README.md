@@ -20,7 +20,7 @@ Each art piece will be accompanied with [alt-text](https://help.twitter.com/en/u
 
 ## July 1, 2021
 
-* Curated by [Sharla Gelfand](https://twitter.com/sharlagelfand)
+* Curated by [Jake Lawlor](https://twitter.com/Jake_Lawlor1)
 
 ## July 15th, 2021
 
