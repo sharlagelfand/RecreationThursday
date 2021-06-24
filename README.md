@@ -6,6 +6,16 @@ New pieces will be posted every two weeks on twitter under the [#RecreationThurs
 
 Each art piece will be accompanied with [alt-text](https://help.twitter.com/en/using-twitter/picture-descriptions) to make this project as accessible as possible. We ask you to please include alt text with your recreations - feel free to use the alt-text we have provided as a starting point and update to capture your recreation as you see fit!
 
+# Want to Contribute?
+If you are interested in being a curator for #RecreationThursday please file an [issue](https://github.com/sharlagelfand/RecreationThursday/issues) on our github repo! Include the following:
+
+1. The artist name, piece name, and link to the art piece.
+2. Your name and a link to your twitter account/preferred media platform. 
+3. A draft of the alt text. FYI: Writing alt text for art can be hard, so our community of organizers will provide suggestions if needed, to help you!
+
+We will then provide you with available dates for curating! On that date, you should announce that you are the curator, share the piece, and link to the repo. Here are examples from [Maya's curation](https://twitter.com/Mayacelium/status/1405503706653597698) and [Natalie's curation](https://twitter.com/_natalie_oshea/status/1400526683170541570). If you want to provide suggestions, but not actually be the one who posts, please let us know. We will post for you!
+
+
 ## June 3, 2021
 
 * [Alfredo Hlito's Curves and Straight Series (1948)](https://www.moma.org/collection/works/205953)
