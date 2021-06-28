@@ -36,6 +36,10 @@ We will then provide you with available dates for curating! On that date, you sh
 
 * Curated by [Maia Pelletier](https://twitter.com/MaiaPelletier)
 
-## August 5th, 2021
+## July 29th, 2021
 
-* Curated by [Ijeamaka Anyene](https://twitter.com/ijeamaka_a)
+* Curated by [Georgios Karamanis](https://twitter.com/geokaramanis)
+
+## August 12th, 2021
+
+* Curated by [Miles Ott](https://twitter.com/Miles_Ott)
