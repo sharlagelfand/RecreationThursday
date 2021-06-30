@@ -29,8 +29,10 @@ We will then provide you with available dates for curating! On that date, you sh
 * [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-06-17/alt_text.md) for the piece
 
 ## July 1, 2021
-
+* [Sol Lewitt's Color Bands (2000)](https://www.sollewittprints.org/artwork/lewitt-raisonne-2000-07/)
 * Curated by [Jake Lawlor](https://twitter.com/Jake_Lawlor1)
+* [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-07-01/alt_text.md) for the piece
+
 
 ## July 15th, 2021
 
