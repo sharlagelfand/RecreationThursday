@@ -37,7 +37,7 @@ We will then provide you with available dates for curating! On that date, you sh
 ## July 15th, 2021
 * [Odili Donald Odita's Phantom’s Shadow (2008)](https://www.stevenson.info/exhibition/3088/work/3)
 * Curated by [Ijeamaka Anyene](https://twitter.com/ijeamaka_a)
-* Alt-text
+* [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-07-15/alt_text.md) for the piece
 
 ## July 29th, 2021
 
