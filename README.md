@@ -40,8 +40,9 @@ We will then provide you with available dates for curating! On that date, you sh
 * [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-07-15/alt_text.md) for the piece
 
 ## July 29th, 2021
-
+* [Quadratspirale schwarz {1962)](https://www.artsy.net/artwork/anton-stankowski-quadratspirale-schwarz)
 * Curated by [Georgios Karamanis](https://twitter.com/geokaramanis)
+* [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/20201-07-28/alt_text.md) for the piece
 
 ## August 12th, 2021
 
