@@ -45,5 +45,6 @@ We will then provide you with available dates for curating! On that date, you sh
 * [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-07-29/alt_text.md) for the piece
 
 ## August 12th, 2021
-
+* [Bridget Riley's Hesitate (1964)](https://www.tate.org.uk/art/artworks/riley-hesitate-t04132)
 * Curated by [Miles Ott](https://twitter.com/Miles_Ott)
+* [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-08-12/alt_text.md) for the piece
