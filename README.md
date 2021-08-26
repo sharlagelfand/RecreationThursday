@@ -48,3 +48,8 @@ We will then provide you with available dates for curating! On that date, you sh
 * [Bridget Riley's Hesitate (1964)](https://www.tate.org.uk/art/artworks/riley-hesitate-t04132)
 * Curated by [Miles Ott](https://twitter.com/Miles_Ott)
 * [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-08-12/alt_text.md) for the piece
+
+## August 24th, 2021
+* [Chung Shun-Wen's Grandmother's Clothes 1 (2008)](https://explore.dangrove.org/objects/1185)
+* Curated by [Kelsey Chalmers](https://twitter.com/kelsey_chalmers)
+* [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-08-24/alt_text.md) for the piece
