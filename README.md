@@ -53,3 +53,8 @@ We will then provide you with available dates for curating! On that date, you sh
 * [Chung Shun-Wen's Grandmother's Clothes 1 (2008)](https://explore.dangrove.org/objects/1185)
 * Curated by [Kelsey Chalmers](https://twitter.com/kelsey_chalmers)
 * [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-08-24/alt_text.md) for the piece
+
+## September 30th, 2021
+* [M.C. Escher's Design for Wrapping-paper: De Bijenkorf](https://www.wikiart.org/en/m-c-escher/not_detected_204690)
+* Curated by [Jiwan Heo](https://twitter.com/jiwanheo)
+* [Alt-text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-09-30/alt_text.md) for the piece
