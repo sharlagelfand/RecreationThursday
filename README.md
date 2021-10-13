@@ -15,6 +15,11 @@ If you are interested in being a curator for #RecreationThursday please file an 
 
 We will then provide you with available dates for curating! On that date, you should announce that you are the curator, share the piece, and link to the repo. Here are examples from [Maya's curation](https://twitter.com/Mayacelium/status/1405503706653597698) and [Natalie's curation](https://twitter.com/_natalie_oshea/status/1400526683170541570). If you want to provide suggestions, but not actually be the one who posts, please let us know. We will post for you!
 
+## October 14th, 2021
+* [Will Creech's Grid (2021)](https://www.instagram.com/p/CQ82UdMFSj_/)
+* Curated by [Sharla Gelfand](https://twitter.com/sharlagelfand)
+* [Alt text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-10-14/alt_text.md) for the piece
+
 ## September 30th, 2021
 * [M.C. Escher's Design for Wrapping-paper: De Bijenkorf](https://www.wikiart.org/en/m-c-escher/not_detected_204690)
 * Curated by [Jiwan Heo](https://twitter.com/jiwanheo)
