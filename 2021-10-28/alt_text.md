@@ -1,0 +1,1 @@
+‘Iris, Tulips, Jonquils, and Crocuses'  by Alma Thomas is an abstract painting composed of brightly colored, lozenge-shaped brushstrokes in vertical stripes of navy, purple, turquoise, yellow, orange and red. The overall effect is as if the painting was collaged out of torn pieces of paper, with the white of the canvas showing through.
