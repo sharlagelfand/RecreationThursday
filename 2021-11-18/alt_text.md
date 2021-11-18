@@ -1,0 +1,1 @@
+Classificazione per sezioni di situazioni spaziali by Franco Purini is a matrix of 72 drawings consisting of the transformations of a cubic section. All drawings have a white background with black lines and are numbered in the bottom left corner.  
