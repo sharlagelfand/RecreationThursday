@@ -16,7 +16,7 @@ If you are interested in being a curator for #RecreationThursday please file an 
 We will then provide you with available dates for curating! On that date, you should announce that you are the curator, share the piece, and link to the repo. Here are examples from [Maya's curation](https://twitter.com/Mayacelium/status/1405503706653597698) and [Natalie's curation](https://twitter.com/_natalie_oshea/status/1400526683170541570). If you want to provide suggestions, but not actually be the one who posts, please let us know. We will post for you!
 
 ## November 18th, 2021
-* [Franco Purini's Classificazione per sezioni di situazioni spaziali [1968)](https://www.isplora.com/us/News/Architects/franco-purini-drawing-architecture)
+* [Franco Purini's Classificazione per sezioni di situazioni spaziali (1968)](https://www.isplora.com/us/News/Architects/franco-purini-drawing-architecture)
 * Curated by [Ijeamaka Anyene](https://twitter.com/ijeamaka_a)
 * [Alt text](https://github.com/sharlagelfand/RecreationThursday/blob/main/2021-11-18/alt_text.md) for the piece
 
